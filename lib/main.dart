@@ -1,5 +1,6 @@
 import 'package:electrical_store_app/constants.dart';
 import 'package:electrical_store_app/models/Home.dart';
+import 'package:electrical_store_app/models/detilsItem.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 

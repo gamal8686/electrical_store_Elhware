@@ -1,4 +1,3 @@
-import 'package:electrical_store_app/models/detilsItem.dart';
 import 'package:electrical_store_app/models/product.dart';
 
 import 'package:flutter/material.dart';

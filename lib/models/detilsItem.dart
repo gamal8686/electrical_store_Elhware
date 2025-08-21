@@ -1,6 +1,5 @@
 import 'package:electrical_store_app/constants.dart';
 import 'package:electrical_store_app/main.dart';
-import 'package:electrical_store_app/models/Home.dart';
 import 'package:electrical_store_app/models/product.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -151,6 +150,5 @@ class detilsItem extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }
